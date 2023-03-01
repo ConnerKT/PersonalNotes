@@ -16,3 +16,36 @@ lazy
 6. Collaborate with other developers: Join online communities or attend meetups where you can collaborate with other developers. Collaborating with other developers can help you learn new techniques, gain valuable feedback, and build your network.
 
 7. Keep learning: The tech industry is constantly evolving, so it's essential to keep learning. Stay up-to-date with the latest web development trends, attend conferences, take online courses, and read blogs and articles.
+Useful Links for transfering to class computer
+<https://roadmap.sh/javascript.>
+
+## Stretch Goals For Objects
+
+1. Build a To-Do List Application
+
+Create an array of objects to store each task's details (e.g. name, priority, due date)
+Build a function that adds a new task to the array
+Build a function that removes a task from the array
+Build a function that sorts the tasks by priority or due date
+Display the tasks in a table or list format on a webpage
+
+2. Build a Weather Forecast Application
+
+Use an API to fetch weather data for a specific location
+Use an array to store the data for the next few days
+Build a function that displays the data in a user-friendly format
+Allow the user to search for different locations and display the weather data for those locations
+
+3. Build a Quiz Application
+
+Use an array of objects to store the quiz questions and answers
+Build a function that selects a random question from the array and displays it on the webpage
+Build a function that checks if the user's answer is correct and displays the result on the webpage
+Keep track of the user's score and display it at the end of the quiz
+
+4. Build a Recipe Application
+
+Use an array of objects to store each recipe's details (e.g. name, ingredients, instructions)
+Build a function that displays the recipe details in a user-friendly format
+Allow the user to search for recipes by name or ingredient
+Allow the user to add their own recipes to the array and display them on the webpage
