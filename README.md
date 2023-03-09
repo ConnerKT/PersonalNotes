@@ -48,4 +48,4 @@ Keep track of the user's score and display it at the end of the quiz
 Use an array of objects to store each recipe's details (e.g. name, ingredients, instructions)
 Build a function that displays the recipe details in a user-friendly format
 Allow the user to search for recipes by name or ingredient
-Allow the user to add their own recipes to the array and display them on the webpage
+Allow the user to add their own recipes to the array and display them on the webpage.
