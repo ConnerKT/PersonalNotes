@@ -12,10 +12,19 @@ header {
     text-align:center;
     font-size:100px;
 }
-.todoList{
+.ideadump, .todolist {
     color:white;
     text-align: center;
     font-size: 50px;
     padding:20px;
     list-style-type: none;
+}
+
+.siteplanideas {
+    color:white;
+    font-size:40px;
+    text-align: center;
+}
+.stealspan {
+    text-decoration:line-through;
 }
