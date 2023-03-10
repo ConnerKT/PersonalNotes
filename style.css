@@ -12,3 +12,10 @@ header {
     text-align:center;
     font-size:100px;
 }
+.todoList{
+    color:white;
+    text-align: center;
+    font-size: 50px;
+    padding:20px;
+    list-style-type: none;
+}
